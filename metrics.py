@@ -258,5 +258,5 @@ if __name__ == "__main__":
 	cax = fig.add_subplot(gs[4, 2:])
 	fig.colorbar(sm, cax=cax, orientation="horizontal")
 
-
+	plt.savefig("example.png", dpi=fig.dpi)
 	plt.show()
