@@ -1,2 +1,2 @@
 # networkESG
-Calculating network ESG scores
+Calculating network ESG scores with python
